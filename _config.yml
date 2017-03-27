@@ -18,12 +18,12 @@ title: TianYuan's Blog
 email: yyy375@stu.xjtu.edu.cn
 description: Renge is a Jekyll theme that is designed by Junchao (www.junchaowang.com) and inspired by amination “のんのんびより” and named by one of the Characters "Renge Miyauchi (宮内 れんげ Miyauchi Renge)".
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zeff2010.github.io/tianyuan/" # the base hostname & protocol for your site
+url: "https://zeff2010.github.io/" # the base hostname & protocol for your site
 twitter_username: yyy375
 github_username: zeff2010
 
 # Build settings
 markdown: kramdown
-paginate: 3
+paginate: 5
 gems: [jekyll-paginate]
 paginate_path: "/page/:num"
