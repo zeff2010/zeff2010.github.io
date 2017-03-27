@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Welcome to my blog!"
-date: 2017-03-27 13:08:09 -0700
-categories: Jekyll Renge
+date: 2017-03-27 15:08:09 -0700
+categories: 杂七杂八
 tags: Jekyll Renge
 ---
 
