@@ -50,7 +50,7 @@ tags: Jekyll Renge Github Wordpress
 <h3>step5 上传Jekyll模版至Github</h3>
 首先登录Github客户端，将新建的Repository克隆到本地。
 
-![creat-new-repository](clone-repository-to-local.png)
+![clone-repository-to-local](/images/clone-repository-to-local.png)
 
 然后把Jekyll模版copy到本地的Repository的目录。
 Github客户端就会发现Repository出现了更改，对更改做出确认后发布即可。
