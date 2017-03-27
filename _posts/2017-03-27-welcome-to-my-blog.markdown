@@ -6,7 +6,7 @@ categories: Jekyll Renge
 tags: Jekyll Renge
 ---
 
-It's a personal blog using <a href="https://github.com/billyfish152/Renge">Renge</a> which designed by <a href="https://www.junchaowang.com">Junchao</a>, powered by<a href="http://jekyllrb.com"> Jekyll</a>
+It's a personal blog using <a href="https://github.com/billyfish152/Renge">Renge</a> which designed by <a href="https://www.junchaowang.com">Junchao</a>, powered by<a href="http://jekyllrb.com"> Jekyll</a>.
 
 Renge is designed by Junchao (www.junchaowang.com), inspired by the amination called "のんのんびより" and named by one of the Characters, Renge Miyauchi (宮内 れんげ).
 
