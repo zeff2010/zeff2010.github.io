@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2016-06-16 13:08:09 -0700
 categories: Jekyll Renge
 tags: jekyll Renge
 ---
