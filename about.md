@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Renge is designed by Junchao (www.junchaowang.com), inspired by the amination called "のんのんびより" and named by one of the Characters, Renge Miyauchi (宮内 れんげ). If you have any questions, you can reach me via <a href="https://github.com/billyfish152/Renge">Renge on GitHub</a> by submitting an issue or via email billyfish152[at]gmail.com.
+你好！我是田原，欢迎来到我的博客，请指正！
 
-test
+本人作为各方面的菜鸟，将无条件虚心接受^_^
+
+QQ：2413874692
