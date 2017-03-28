@@ -1,10 +1,9 @@
 ---
-layout: default
-title: Categories
+layout: page
+title: 博文分类
 group: navigation
+permalink: /categories/
 ---
-<h3 class="heading text-left">博文分类</h3>
-
 {% for category in site.categories %}
 	<h2 class="text-left" id="{{ category[0] }}"><a href="#{{ category[0] }}">{{ category[0] }}</a></h2>
 	<ul class="text-left">
