@@ -154,3 +154,4 @@ Test部分也不是很懂，好像就是调用了动作，然后指定了IP和�
 [PeachFuzzer官网]: http://www.peachfuzzer.com
 [安装教程]: http://community.peachfuzzer.com/v3/Installation.html
 [Peach官网教程]: http://community.peachfuzzer.com/v3/PeachPit.html
+[Peach官方论坛]: https://forums.peachfuzzer.com/
