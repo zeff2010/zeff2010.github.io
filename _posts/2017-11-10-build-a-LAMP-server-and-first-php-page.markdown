@@ -200,4 +200,4 @@ else{
 
 以上只是实现了最简单的登录功能，很多安全方面的问题都欠考虑，至少对输入的字符没有做任何过滤，而且页面跳转的方式大概也有问题，可能实际并不是这么操作的。~~不过毕竟是造轮子，大概知道原理就好了，后面还是得依靠现成的框架才是正路。~~
 
-[W3school]：http://www.w3school.com.cn/php/php_mysql_connect.asp
+[W3school]:http://www.w3school.com.cn/php/php_mysql_connect.asp
